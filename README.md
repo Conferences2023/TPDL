@@ -1,4 +1,4 @@
-# JCDL2023
+# TPDL2023
 The following project represents two main directories.
 1) Retraction centric
 2) Citation Analysis
